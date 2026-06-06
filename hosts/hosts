@@ -1,5 +1,5 @@
 ### dns.geohide.ru: hosts file
-# Последнее обновление: 20 мая 2026
+# Последнее обновление: 22 мая 2026
 # Домены взяты из этих источников:
 # https://dns.geohide.ru:8443
 # https://info.dns.malw.link/hosts
@@ -14,8 +14,6 @@
 # Работающие IP без прокси
 127.0.0.1 localhost
 ::1 ip6-localhost
-185.199.108.133 raw.githubusercontent.com
-185.199.109.133 raw.githubusercontent.com
 130.255.77.28 ntc.party
 2a02:e00:ffec:4b8::1 ntc.party
 157.240.245.174 instagram.com
